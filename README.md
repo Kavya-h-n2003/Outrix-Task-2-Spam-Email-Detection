@@ -1,6 +1,7 @@
 # Email-Spam-Detection-using-Machine Learning
 
 📧 Spam Email Detection Tool
+
 📝 Overview
 
 This project is a Spam Email Detection Tool built using Python, Scikit-learn, NLTK, and Pandas. The main goal is to preprocess email text data, extract meaningful features using TF-IDF, train machine learning classifiers like Naïve Bayes or SVM, and evaluate model accuracy.
